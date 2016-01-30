@@ -1,0 +1,12 @@
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\bin\Debug\SerialPortLogger.exe
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\bin\Debug\SerialPortLogger.pdb
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\obj\Debug\SerialPortLogger.g.resources
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\obj\Debug\SerialPortLogger.Form1.resources
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\obj\Debug\SerialPortLogger.Pictures.resources
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\obj\Debug\SerialPortLogger.Properties.Resources.resources
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\obj\Debug\SerialPortLogger.csproj.GenerateResource.Cache
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\obj\Debug\SerialPortLogger.exe
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\obj\Debug\SerialPortLogger.pdb
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\bin\Debug\SerialPortLogger.exe.CodeAnalysisLog.xml
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\bin\Debug\SerialPortLogger.exe.lastcodeanalysissucceeded
+E:\DEV\HandPicked\DKG_Monitor_various_files\Custom DKG Monitoring Project Files\SerialPortLogger_LAST (Project)\SerialPortLogger\obj\Debug\SerialPortLogger.csprojResolveAssemblyReference.cache
